@@ -7,7 +7,7 @@ int main(void)
     int x = 0;
     while (x < count)
     {
-        printf("Woof\n");
+        printf("Woof %d\n", x);
 
         x++;
     }
